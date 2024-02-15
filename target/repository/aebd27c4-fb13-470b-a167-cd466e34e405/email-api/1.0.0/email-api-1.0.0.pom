@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>aebd27c4-fb13-470b-a167-cd466e34e405</groupId>
+  <artifactId>email-api</artifactId>
+  <version>1.0.0</version>
+  <name>email-api</name>
+  <properties>
+    <classifier>raml</classifier>
+    <main>email-api.raml</main>
+    <status>published</status>
+    <originalFormatVersion>1.0</originalFormatVersion>
+    <apiVersion>v1</apiVersion>
+    <projectId>3572422c-41be-4eab-8de0-2eb569b4dd48</projectId>
+    <branchId>master</branchId>
+    <commitId>b7e1c38dcff154df55836b5f3e3a8c25b12c1945</commitId>
+    <keywords/>
+    <type>rest-api</type>
+    <mainFile>email-api.raml</mainFile>
+  </properties>
+  <repositories>
+    <repository>
+      <id>anypoint-exchange</id>
+      <url>https://maven.anypoint.mulesoft.com/api/v3/maven</url>
+    </repository>
+  </repositories>
+</project>
